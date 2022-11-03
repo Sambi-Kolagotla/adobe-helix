@@ -236,3 +236,9 @@ main .section.highlight {
   /* background-color: var(--highlight-background-color); */
   background-color: green;
 }
+
+
+main .section.redlight {
+  /* background-color: var(--highlight-background-color); */
+  background-color: red;
+}
